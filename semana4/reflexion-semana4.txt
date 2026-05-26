@@ -1,0 +1,9 @@
+La capacidad de las comunidades para construir sus propias herramientas tecnológicas utilizando tecnologías abiertas
+como Node.js es fundamental para garantizar su autonomía, soberanía y sostenibilidad a largo plazo. Al emplear
+software libre y ecosistemas de código abierto, se eliminan las barreras económicas de las licencias propietarias,
+permitiendo que iniciativas ciudadanas con recursos limitados puedan desarrollar e iterar soluciones adaptadas
+a sus realidades particulares. Node.js, gracias a su inmensa comunidad y eficiencia, democratiza el acceso
+al desarrollo web en el servidor usando Javascript, un lenguaje ampliamente conocido. Esto fomenta que las
+propias comunidades no solo consuman tecnología diseñada externamente, sino que se conviertan en creadoras y
+guardianas de sus datos. De esta forma, la tecnología se transforma en un vehículo real de empoderamiento social,
+permitiendo la colaboración directa, la transparencia y el codiseño de soluciones que promueven la paz y el bienestar.
